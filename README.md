@@ -1,2 +1,2 @@
-# FanaWeb1.0
+# Fana Website 1.0
 Fana Web Version
